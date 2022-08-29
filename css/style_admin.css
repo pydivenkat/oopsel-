@@ -1,0 +1,187 @@
+/* CSS Document */
+
+body  {
+	margin:0px;
+	padding:0px;
+	background:#fff  url(../images/body_bg.jpg) repeat-x;
+	
+}
+
+.bodytext {
+	font-family:Arial;
+	font-size:11px;
+	font-weight:bold;
+	float:left;
+	color:#1186C3;
+}
+
+.menutext1 {
+	font-family:Arial;
+	color:#333333;
+	font-size:11px;
+	font-weight:bold;
+	float:left;
+	padding-left:5px;
+	text-decoration: none;
+	
+}
+
+a.menutext1 {
+	font-family:Arial;
+	color:#333333;
+	font-size:11px;
+	font-weight:bold;
+	float:left;
+	padding-left:5px;
+	text-decoration: none;
+	
+}
+
+
+
+a.menutext1:hover {
+	font-family:Arial;
+	color:#333333;
+	font-size:11px;
+	font-weight:bold;
+	float:left;
+	padding-left:5px;
+	text-decoration: underline;
+	
+}
+
+.menutext-h1 {
+	font-family:verdana;
+	color:#fff;
+	font-size:11px;
+	font-weight:bold;
+	float:left;
+	padding-left:5px;
+	text-align:center;
+	
+}
+
+
+a.me{
+	font-family:verdana;
+	color:#fff;
+	font-size:9px;
+	font-weight:bold;
+	float:left;
+	text-align:center;
+	text-decoration:none;
+	display:inline;
+	
+}
+
+a.me:hover{
+	font-family:verdana;
+	color:#fff;
+	font-size:9px;
+	font-weight:bold;
+	float:left;
+	text-align:center;
+	text-decoration:underline;
+	display:inline;
+	
+}
+
+a.forgot{
+	font-family:verdana;
+	color:#fff;
+	font-size:10px;
+	font-weight:bold;
+	float:left;
+	text-align:center;
+	text-decoration:underline;
+	display:inline;
+	
+}
+
+a.forgot:hover{
+	font-family:verdana;
+	color:#fff;
+	font-size:10px;
+	font-weight:bold;
+	float:left;
+	text-align:center;
+	text-decoration:none;
+	display:inline;
+	
+}
+
+
+.admin {
+	font-family:arial;
+	color:#fff;
+	font-size:30px;
+	font-weight:bold;
+	text-align:center;
+	
+	
+}
+
+.login {
+	font-family:arial;
+	color:#fff;
+	font-size:11px;
+	font-weight:bold;
+	padding-right:12px;
+	padding-top:7px;
+	text-decoration:none;
+	
+}
+
+a.login {
+	font-family:arial;
+	color:#fff;
+	font-size:11px;
+	font-weight:bold;
+	padding-right:12px;
+	padding-top:7px;
+	text-decoration:none;
+	
+}
+
+a.login:hover{
+	font-family:arial;
+	color:#fff;
+	font-size:11px;
+	font-weight:bold;
+	padding-right:12px;
+	padding-top:7px;
+	text-decoration:underline;
+	
+}
+
+
+.footertext {
+	font-family:arial;
+	color:#fff;
+	font-size:11px;
+	font-weight:normal;
+	
+}
+
+.loginsmall {
+	font-family: verdana;
+	font-size: 12px;
+	font-weight: normal;
+	color: #2C616B;
+	float: left;
+}
+
+.loginbold2 {
+	font-family: verdana;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	float: left;
+}
+
+.error {
+	color: red;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: left;
+}
